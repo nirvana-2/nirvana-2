@@ -53,9 +53,7 @@ I build full-stack web applications using the MERN stack, Node.js, PostgreSQL an
 
 ---
 
-## 📊 GitHub Stats
-
-![Saman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirvana-2&show_icons=true&theme=default&hide_border=true&count_private=true)
+## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvana-2&layout=compact&theme=default&hide_border=true)
 

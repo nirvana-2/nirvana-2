@@ -22,6 +22,7 @@ I build full-stack web applications using the MERN stack, Node.js, PostgreSQL an
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +43,7 @@ I build full-stack web applications using the MERN stack, Node.js, PostgreSQL an
 | [💸 Expense Splitter](https://github.com/nirvana-2/expense-tracking-app-expense-splitter-) | Split expenses among friends & groups | React, Node.js, MongoDB |
 | [✅ Todo App](https://github.com/nirvana-2/toDo-list) | Full-stack todo app with complete backend & database | Node.js, Express, MongoDB |
 
-👉 **Live demos & more:** [portfolio-samanshakya.netlify.app](https://portfolio-samanshakya.netlify.app)
+👉 **Live demos & more:** [portfolio-samanshakya.netlify.app](https://samanshakya.netlify.app)
 
 ---
 
